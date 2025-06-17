@@ -37,8 +37,8 @@ To get this project up and running on your local machine, follow these steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
-    cd declare-replica-project-main
+    git clone https://github.com/KHAJAMOINUDDINKHADRI/Design-Declare-Replica.git
+    cd Design-Declare-Replica
     ```
 
 2.  **Install dependencies:**
